@@ -1,4 +1,4 @@
-# Node JS Template
+# How to set up the template
 This is a basic template for a Node JS web app
 
 ## Local
