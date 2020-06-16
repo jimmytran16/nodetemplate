@@ -17,7 +17,7 @@ Your app should now be running on [localhost:3000](http://localhost:3000/).
  Make sure you have [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```
-$ heroku create
+$ heroku create <your-project-name>
 $ git push heroku master
 $ heroku open
 ```
