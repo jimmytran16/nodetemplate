@@ -5,7 +5,7 @@ This is a basic template for a Node JS web app
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
-$ git clone https://github.com/jimmytran16/nodetemplate.git nodetemplate
+$ git clone https://github.com/jimmytran16/nodetemplate.git
 $ cd nodetemplate
 $ npm install
 $ nodemon index
